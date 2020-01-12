@@ -3,5 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Hi i'm Sid!** and here is the place where i random thoughts and some things in tech which i care about.
+**Hi i'm Sid!** 
+I like to read about distributed systems and here is an attempt to provide solution to some common system design problems
+which are not answered elsewhere.
+
 
